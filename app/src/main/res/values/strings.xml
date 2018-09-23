@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="api_key">229dfe17fa3c6de2dbbe27af794364c2</string>
+</resources>
